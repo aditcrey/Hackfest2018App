@@ -3,6 +3,7 @@ A gesture detection app for mute people
 
 
 ## Screenshots
+<span>
 <img src ='https://user-images.githubusercontent.com/17809480/43363255-c36321f8-931e-11e8-9ea2-5e946eaf7413.jpeg' width='200px'/>
 <img src ='https://user-images.githubusercontent.com/17809480/43363256-c3a06b80-931e-11e8-97be-4bfdda5f0415.jpeg' width='200px'/>
 <img src ='https://user-images.githubusercontent.com/17809480/43363257-c3d37228-931e-11e8-9c61-1814608b937b.jpeg' width='200px'/>
@@ -12,6 +13,10 @@ A gesture detection app for mute people
 <img src ='https://user-images.githubusercontent.com/17809480/43363262-c494687a-931e-11e8-9937-250c45276f01.jpeg' width='200px'/>
 <img src ='https://user-images.githubusercontent.com/17809480/43363263-c4c489d8-931e-11e8-9e9d-ccb884ba4112.jpeg' width='200px'/>
 <img src ='https://user-images.githubusercontent.com/17809480/43363264-c4f9c24c-931e-11e8-862d-203596b6ba6d.jpeg' width='200px'/>
+  </span>
+
+## Technologies Used:
+  Android SDK, OpenCV SDK, Java, Gradle
 
 
 
